@@ -18,9 +18,7 @@ An **advanced task manager** built with **HTML, CSS, and JavaScript**, focused o
 
 ---
 
-## 🌍 Live Demo
-
-👉 [Check it out on GitHub Pages](https://lincolnsadler.github.io/todo-avancado/)
+## 👉 [Check it out on GitHub Pages](https://lincolnsadler.github.io/todo-avancado/)
 
 ---
 
