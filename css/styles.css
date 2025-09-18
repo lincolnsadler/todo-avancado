@@ -49,6 +49,10 @@ select {
     display: none;
 }
 
+.filtered {
+    display: none !important; /* Usamos !important para garantir que esta regra sobrescreva outras */
+}
+
 /* To-do Header */
 
 .todo-container {
